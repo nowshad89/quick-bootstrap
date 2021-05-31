@@ -1,0 +1,33 @@
+* { margin: 0px; padding: 0px; }
+header { border-bottom: 1px solid rgb(240, 240, 240); }
+.navbar-brand { width: 68%; }
+.navbar-brand img { width: 30%; }
+.list { text-transform: capitalize; color: rgb(85, 72, 85); }
+.list li { font-size: 27px; font-weight: 400; }
+.content { text-align: center; padding-top: 70px; padding-bottom: 150px; }
+.content h1 { color: rgb(59, 64, 78); text-transform: capitalize; font-size: 68px; line-height: 84px; }
+.content h2 { color: rgb(1, 139, 254); font-size: 68px; line-height: 86px; text-transform: capitalize; }
+.content p { color: rgb(18, 23, 29); font-size: 18px; line-height: 36px; text-transform: capitalize; }
+.content img { width: 57%; }
+.success { margin-bottom: 100px; }
+.success_left { }
+.success_left h1 { text-align: right; color: rgb(240, 104, 110); line-height: 80px; font-size: 68px; }
+.success_left p { color: rgb(69, 63, 82); text-align: right; font-size: 13px; text-transform: capitalize; line-height: 25px; }
+.success_right { }
+.success_right h1 { font-size: 60px; color: rgb(19, 34, 77); }
+.features { }
+.pic_one { background-color: rgb(254, 235, 237); padding: 50px 20px; }
+.pic_one img { width: 100%; }
+.pic_one h1 { font-size: 30px; line-height: 50px; color: rgb(32, 49, 93); }
+.pic_one p { font-size: 17px; line-height: 31px; color: rgb(55, 73, 83); }
+.pic_two { background-color: rgb(234, 249, 244); padding: 50px 20px; }
+.pic_two img { width: 100%; }
+.pic_two h1 { font-size: 30px; line-height: 50px; color: rgb(32, 49, 93); }
+.pic_two p { font-size: 17px; line-height: 31px; color: rgb(55, 73, 83); }
+.pic_three { background-color: rgb(255, 248, 232); padding: 50px 20px; }
+.pic_three img { width: 100%; }
+.pic_three h1 { font-size: 30px; line-height: 50px; color: rgb(32, 49, 93); }
+.pic_three p { font-size: 17px; line-height: 31px; color: rgb(55, 73, 83); }
+.footer {text-align: center;height: 100px;background-color: rgb(0, 138, 255);margin-top: 73px;}
+.footer p { font-size: 18px; padding-top: 37px; color: rgb(116, 208, 255); }
+.footer p span { color: white; font-size: 20px; font-weight: 700; letter-spacing: 3px; }
